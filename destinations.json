@@ -1,0 +1,514 @@
+[
+    {
+        "name": "Dublin Castle",
+        "latitude": 53.3437935,
+        "longitude": -6.2674871,
+        "address": "Dame St, Dublin 2, Ireland",
+        "cost": 15,
+        "rating": 4.5
+    },
+    {
+        "name": "Cliffs of Moher",
+        "latitude": 52.9714575,
+        "longitude": -9.4263246,
+        "address": "Lislorkan North, Liscannor, Co. Clare, Ireland",
+        "cost": 10,
+        "rating": 4.8
+    },
+    {
+        "name": "Giant's Causeway",
+        "latitude": 55.240807,
+        "longitude": -6.511573,
+        "address": "Bushmills BT57 8SU, United Kingdom",
+        "cost": 13,
+        "rating": 4.7
+    },
+    {
+        "name": "Ring of Kerry",
+        "latitude": 51.9484,
+        "longitude": -9.7686,
+        "address": "Ring of Kerry, Co. Kerry, Ireland",
+        "cost": 0,
+        "rating": 4.6
+    },
+    {
+        "name": "Connemara National Park",
+        "latitude": 53.5520,
+        "longitude": -9.9381,
+        "address": "Letterfrack, Co. Galway, Ireland",
+        "cost": 0,
+        "rating": 4.6
+    },
+    {
+        "name": "Guinness Storehouse",
+        "latitude": 53.3419,
+        "longitude": -6.2868,
+        "address": "St. James's Gate, Ushers, Dublin 8, Ireland",
+        "cost": 25,
+        "rating": 4.4
+    },
+    {
+        "name": "Kilmainham Gaol",
+        "latitude": 53.3438,
+        "longitude": -6.3095,
+        "address": "Inchicore Rd, Kilmainham, Dublin 8, Ireland",
+        "cost": 8,
+        "rating": 4.6
+    },
+    {
+        "name": "The Book of Kells",
+        "latitude": 53.3434,
+        "longitude": -6.2546,
+        "address": "Trinity College Dublin, College Green, Dublin 2, Ireland",
+        "cost": 14,
+        "rating": 4.5
+    },
+    {
+        "name": "Killarney National Park",
+        "latitude": 52.0000,
+        "longitude": -9.5167,
+        "address": "Killarney, Co. Kerry, Ireland",
+        "cost": 0,
+        "rating": 4.7
+    },
+    {
+        "name": "Blarney Castle",
+        "latitude": 51.9293,
+        "longitude": -8.5706,
+        "address": "Monacnapa, Blarney, Co. Cork, Ireland",
+        "cost": 18,
+        "rating": 4.6
+    },
+    {
+        "name": "The Burren",
+        "latitude": 53.0618,
+        "longitude": -9.1358,
+        "address": "The Burren, Co. Clare, Ireland",
+        "cost": 0,
+        "rating": 4.7
+    },
+    {
+        "name": "Rock of Cashel",
+        "latitude": 52.5205,
+        "longitude": -7.8907,
+        "address": "Cashel, Co. Tipperary, Ireland",
+        "cost": 8,
+        "rating": 4.5
+    },
+    {
+        "name": "Newgrange",
+        "latitude": 53.6947,
+        "longitude": -6.4754,
+        "address": "Staleen Rd, Donore, Co. Meath, Ireland",
+        "cost": 10,
+        "rating": 4.6
+    },
+    {
+        "name": "Trinity College Dublin",
+        "latitude": 53.3438,
+        "longitude": -6.2546,
+        "address": "College Green, Dublin 2, Ireland",
+        "cost": 0,
+        "rating": 4.5
+    },
+    {
+        "name": "Kylemore Abbey",
+        "latitude": 53.5616,
+        "longitude": -9.8892,
+        "address": "Pollacappul, Connemara, Co. Galway, Ireland",
+        "cost": 13,
+        "rating": 4.6
+    },
+    {
+        "name": "Galway City",
+        "latitude": 53.2707,
+        "longitude": -9.0568,
+        "address": "Galway, Ireland",
+        "cost": 0,
+        "rating": 4.5
+    },
+    {
+        "name": "Phoenix Park",
+        "latitude": 53.3561,
+        "longitude": -6.3299,
+        "address": "Phoenix Park, Dublin 8, Ireland",
+        "cost": 0,
+        "rating": 4.7
+    },
+    {
+        "name": "Croke Park",
+        "latitude": 53.3607,
+        "longitude": -6.2518,
+        "address": "Jones' Rd, Drumcondra, Dublin 3, Ireland",
+        "cost": 20,
+        "rating": 4.4
+    },
+    {
+        "name": "Powerscourt Estate",
+        "latitude": 53.1844,
+        "longitude": -6.1867,
+        "address": "Enniskerry, Co. Wicklow, Ireland",
+        "cost": 10,
+        "rating": 4.6
+    },
+    {
+        "name": "St. Patrick's Cathedral",
+        "latitude": 53.3393,
+        "longitude": -6.2711,
+        "address": "St. Patrick's Close, Wood Quay, Dublin 8, Ireland",
+        "cost": 8,
+        "rating": 4.5
+    },
+    {
+        "name": "Dingle Peninsula",
+        "latitude": 52.1915,
+        "longitude": -10.3977,
+        "address": "Dingle Peninsula, Co. Kerry, Ireland",
+        "cost": 0,
+        "rating": 4.7
+    },
+    {
+        "name": "Christ Church Cathedral",
+        "latitude": 53.3434,
+        "longitude": -6.2710,
+        "address": "Christchurch Pl, Wood Quay, Dublin 8, Ireland",
+        "cost": 7,
+        "rating": 4.5
+    },
+    {
+        "name": "Bunratty Castle",
+        "latitude": 52.6996,
+        "longitude": -8.8113,
+        "address": "Bunratty West, Bunratty, Co. Clare, Ireland",
+        "cost": 15,
+        "rating": 4.6
+    },
+    {
+        "name": "Aran Islands",
+        "latitude": 53.1167,
+        "longitude": -9.7000,
+        "address": "Aran Islands, Co. Galway, Ireland",
+        "cost": 30,
+        "rating": 4.7
+    },
+    {
+        "name": "Dublin Zoo",
+        "latitude": 53.3531,
+        "longitude": -6.3043,
+        "address": "Phoenix Park, Dublin 8, Ireland",
+        "cost": 18,
+        "rating": 4.6
+    },
+    {
+        "name": "Slea Head Drive",
+        "latitude": 52.1667,
+        "longitude": -10.4667,
+        "address": "Slea Head Dr, Co. Kerry, Ireland",
+        "cost": 0,
+        "rating": 4.7
+    },
+    {
+        "name": "King John's Castle",
+        "latitude": 52.6691,
+        "longitude": -8.6251,
+        "address": "Nicholas St, Limerick, V94 FX25, Ireland",
+        "cost": 10,
+        "rating": 4.5
+    },
+    {
+        "name": "Slieve League",
+        "latitude": 54.6538,
+        "longitude": -8.6986,
+        "address": "Slieve League, Co. Donegal, Ireland",
+        "cost": 0,
+        "rating": 4.8
+    },
+    {
+        "name": "Donegal Castle",
+        "latitude": 54.6542,
+        "longitude": -8.1090,
+        "address": "Castle St, Donegal, Co. Donegal, Ireland",
+        "cost": 5,
+        "rating": 4.4
+    },
+    {
+        "name": "Kinsale",
+        "latitude": 51.7079,
+        "longitude": -8.5306,
+        "address": "Kinsale, Co. Cork, Ireland",
+        "cost": 0,
+        "rating": 4.6
+    },
+    {
+        "name": "The English Market",
+        "latitude": 51.8979,
+        "longitude": -8.4773,
+        "address": "Grand Parade, Centre, Cork, T12 WOK3, Ireland",
+        "cost": 0,
+        "rating": 4.5
+    },
+    {
+        "name": "Ashford Castle",
+        "latitude": 53.5341,
+        "longitude": -9.2852,
+        "address": "Cong, Co. Mayo, Ireland",
+        "cost": 20,
+        "rating": 4.7
+    },
+    {
+        "name": "National Museum of Ireland",
+        "latitude": 53.3404,
+        "longitude": -6.2546,
+        "address": "Kildare St, Dublin 2, Ireland",
+        "cost": 0,
+        "rating": 4.5
+    },
+    {
+        "name": "Muckross House",
+        "latitude": 52.0176,
+        "longitude": -9.5015,
+        "address": "Muckross, Killarney, Co. Kerry, Ireland",
+        "cost": 9,
+        "rating": 4.6
+    },
+    {
+        "name": "Dunluce Castle",
+        "latitude": 55.2190,
+        "longitude": -6.5790,
+        "address": "87 Dunluce Rd, Bushmills BT57 8UY, United Kingdom",
+        "cost": 7,
+        "rating": 4.5
+    },
+    {
+        "name": "St. Stephen's Green",
+        "latitude": 53.3369,
+        "longitude": -6.2590,
+        "address": "St Stephen's Green, Dublin, Ireland",
+        "cost": 0,
+        "rating": 4.6
+    },
+    {
+        "name": "Belfast City Hall",
+        "latitude": 54.5964,
+        "longitude": -5.9291,
+        "address": "Donegall Square N, Belfast BT1 5GS, United Kingdom",
+        "cost": 0,
+        "rating": 4.5
+    },
+    {
+        "name": "Glenveagh National Park",
+        "latitude": 55.0412,
+        "longitude": -7.9425,
+        "address": "Church Hill, Letterkenny, Co. Donegal, Ireland",
+        "cost": 0,
+        "rating": 4.7
+    },
+    {
+        "name": "Hook Lighthouse",
+        "latitude": 52.1243,
+        "longitude": -6.9294,
+        "address": "Churchtown, Hook Head, Co. Wexford, Ireland",
+        "cost": 9,
+        "rating": 4.6
+    },
+    {
+        "name": "Galway Cathedral",
+        "latitude": 53.2769,
+        "longitude": -9.0576,
+        "address": "Galway Cathedral, Gaol Rd, Galway, Ireland",
+        "cost": 0,
+        "rating": 4.6
+    },
+    {
+        "name": "Dingle Oceanworld Aquarium",
+        "latitude": 52.1416,
+        "longitude": -10.2706,
+        "address": "The Wood, Dingle, Co. Kerry, Ireland",
+        "cost": 15,
+        "rating": 4.4
+    },
+    {
+        "name": "Glendalough",
+        "latitude": 53.0101,
+        "longitude": -6.3274,
+        "address": "Glendalough, Co. Wicklow, Ireland",
+        "cost": 0,
+        "rating": 4.7
+    },
+    {
+        "name": "The Little Museum of Dublin",
+        "latitude": 53.3397,
+        "longitude": -6.2580,
+        "address": "15 St Stephen's Green, Dublin 2, Ireland",
+        "cost": 8,
+        "rating": 4.6
+    },
+    {
+        "name": "The National Gallery of Ireland",
+        "latitude": 53.3408,
+        "longitude": -6.2523,
+        "address": "Merrion Square W, Dublin 2, Ireland",
+        "cost": 0,
+        "rating": 4.5
+    },
+    {
+        "name": "Cahir Castle",
+        "latitude": 52.3741,
+        "longitude": -7.9255,
+        "address": "Castle St, Cahir, Co. Tipperary, Ireland",
+        "cost": 5,
+        "rating": 4.6
+    },
+    {
+        "name": "Malin Head",
+        "latitude": 55.3753,
+        "longitude": -7.3391,
+        "address": "Malin Head, Co. Donegal, Ireland",
+        "cost": 0,
+        "rating": 4.7
+    },
+    {
+        "name": "Inishmore",
+        "latitude": 53.1211,
+        "longitude": -9.7335,
+        "address": "Inishmore, Co. Galway, Ireland",
+        "cost": 30,
+        "rating": 4.7
+    },
+    {
+        "name": "Brú na Bóinne",
+        "latitude": 53.6947,
+        "longitude": -6.4463,
+        "address": "Donore, Co. Meath, Ireland",
+        "cost": 10,
+        "rating": 4.7
+    },
+    {
+        "name": "Killarney Lakes",
+        "latitude": 52.0333,
+        "longitude": -9.5333,
+        "address": "Killarney National Park, Co. Kerry, Ireland",
+        "cost": 0,
+        "rating": 4.8
+    },
+    {
+        "name": "The K Club",
+        "latitude": 53.3096,
+        "longitude": -6.6345,
+        "address": "Straffan, Co. Kildare, Ireland",
+        "cost": 25,
+        "rating": 4.5
+    },
+    {
+        "name": "Kilkenny Castle",
+        "latitude": 52.6502,
+        "longitude": -7.2490,
+        "address": "The Parade, Collegepark, Kilkenny, Ireland",
+        "cost": 8,
+        "rating": 4.6
+    },
+    {
+        "name": "The Rock of Dunamase",
+        "latitude": 53.0316,
+        "longitude": -7.2436,
+        "address": "Dunamase, Co. Laois, Ireland",
+        "cost": 0,
+        "rating": 4.7
+    },
+    {
+        "name": "The Long Room Library",
+        "latitude": 53.3442,
+        "longitude": -6.2561,
+        "address": "Trinity College, Dublin 2, Ireland",
+        "cost": 14,
+        "rating": 4.6
+    },
+    {
+        "name": "The Wild Atlantic Way",
+        "latitude": 53.2734,
+        "longitude": -9.0519,
+        "address": "Wild Atlantic Way, Co. Galway, Ireland",
+        "cost": 0,
+        "rating": 4.8
+    },
+    {
+        "name": "St. Fin Barre's Cathedral",
+        "latitude": 51.8952,
+        "longitude": -8.4812,
+        "address": "Bishop St, The Lough, Cork, Ireland",
+        "cost": 6,
+        "rating": 4.5
+    },
+    {
+        "name": "The National Leprechaun Museum",
+        "latitude": 53.3470,
+        "longitude": -6.2639,
+        "address": "Jervis St, North City, Dublin, Ireland",
+        "cost": 15,
+        "rating": 4.4
+    },
+    {
+        "name": "Mizen Head",
+        "latitude": 51.4542,
+        "longitude": -9.8167,
+        "address": "Mizen Head, Co. Cork, Ireland",
+        "cost": 7,
+        "rating": 4.7
+    },
+    {
+        "name": "Ballycotton Cliff Walk",
+        "latitude": 51.8256,
+        "longitude": -8.0105,
+        "address": "Ballycotton, Co. Cork, Ireland",
+        "cost": 0,
+        "rating": 4.6
+    },
+    {
+        "name": "Glenariff Forest Park",
+        "latitude": 55.0006,
+        "longitude": -6.1300,
+        "address": "Glenariff, Ballymena BT44 0QX, United Kingdom",
+        "cost": 5,
+        "rating": 4.7
+    },
+    {
+        "name": "Burren Perfumery",
+        "latitude": 53.0512,
+        "longitude": -9.1721,
+        "address": "Carron, Co. Clare, Ireland",
+        "cost": 0,
+        "rating": 4.6
+    },
+    {
+        "name": "The General Post Office",
+        "latitude": 53.3498,
+        "longitude": -6.2603,
+        "address": "O'Connell Street Lower, North City, Dublin, Ireland",
+        "cost": 0,
+        "rating": 4.5
+    },
+    {
+        "name": "Carrauntoohil",
+        "latitude": 52.0056,
+        "longitude": -9.7439,
+        "address": "Carrauntoohil, Co. Kerry, Ireland",
+        "cost": 0,
+        "rating": 4.8
+    },
+    {
+        "name": "Knocknarea",
+        "latitude": 54.2616,
+        "longitude": -8.5489,
+        "address": "Knocknarea, Co. Sligo, Ireland",
+        "cost": 0,
+        "rating": 4.7
+    },
+    {
+        "name": "The Famine Memorial",
+        "latitude": 53.3476,
+        "longitude": -6.2426,
+        "address": "Custom House Quay, North Dock, Dublin, Ireland",
+        "cost": 0,
+        "rating": 4.5
+    }
+]
